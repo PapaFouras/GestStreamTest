@@ -8,6 +8,6 @@ Pour pouvoir tester le projet, il faut ouvrir LevelToLoad
 
 -- Le LevelToLoad charge le Sublevel2 présent dans la window "Level"
 
-- Utiliser le WaveController pour afficher au moins 100 mesh à l'écran et de les faire danser en "wave".
+2 - Utiliser le WaveController pour afficher au moins 100 mesh à l'écran et de les faire danser en "wave".
 
 Travail réalisé dans le "BP_WaveController" présent dans le dossier "Blueprint"
