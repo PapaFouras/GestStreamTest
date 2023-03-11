@@ -1,14 +1,12 @@
-# GestStreamTest
-
 ## Exercices
+Pour pouvoir tester le projet, il faut ouvrir LevelToLoad
 
-- Le niveau pricipale doit charger le LevelToLoad qui se trouve dans le dossier Level.
+1 - Le niveau principal doit charger le LevelToLoad qui se trouve dans le dossier Level
+2 méthodes ont été implémentées : 
+
+ -- Le LevelToLoad charge le SubLevel1 qui est dans le même dossier gràce au node "Load Streaming asset" triggered par le "BP_TriggerBoxLoadingSubLevel" présent dans le dossier "Blueprint" (mal lu la consigne)
+ -- Le LevelToLoad charge le Sublevel2 présent dans la window "Level"
+
 - Utiliser le WaveController pour afficher au moins 100 mesh à l'écran et de les faire danser en "wave".
 
-## Barème:
-
-10 points par exercices:
-  - 0 si ça ne fonctione pas
-  - 5 si ça utilise que du BP
-  - 10 pour du CPP
-  - A moduler en fonction du niveau de finission.
+Travail réalisé dans le "BP_WaveController" présent dans le dossier "Blueprint"
