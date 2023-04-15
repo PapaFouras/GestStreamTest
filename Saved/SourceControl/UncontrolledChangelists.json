@@ -8,7 +8,6 @@
 				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Level/LevelToLoad.umap",
 				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Level/SubLevel1.umap",
 				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/BP_TriggerBoxLoadingSubLevel.uasset",
-				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/BP_WaveDancing.uasset",
 				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/BP_WaveController.uasset",
 				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/WaveCurve.uasset",
 				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/StarterContent/Props/Materials/M_Statue.uasset",
@@ -17,6 +16,17 @@
 				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/StarterContent/Materials/M_Basic_Wall.uasset",
 				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/StarterContent/Props/Materials/M_TableRound.uasset",
 				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Level/SubLevel2.umap",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Level/ModularGameFeaturesDemo.umap",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/ModularGameFeaturesDemo.umap",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Plugins/GameFeatures/MyGameFeature/Content/MyGameFeature.uasset",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/Exam2/AC_Log1.uasset",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/Exam2/BP_ActorThatHasAModularComponent.uasset",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/BP_ActorThatHasAModularComponent.uasset",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/AC_Log1.uasset",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/EXam1/BP_TriggerBoxLoadingSubLevel.uasset",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/EXam1/BP_WaveController.uasset",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/EXam1/WaveCurve.uasset",
+				"C:/Users/nicol/OneDrive/Documents/GitHub/GestStreamTest/Content/Blueprint/BP_WaveDancing.uasset",
 				"C:/Users/nicol/OneDrive/Documents/Unreal Projects/GestStreamTest/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}

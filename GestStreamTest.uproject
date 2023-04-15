@@ -18,6 +18,10 @@
 		{
 			"Name": "ModularGameplay",
 			"Enabled": true
+		},
+		{
+			"Name": "MyGameFeature",
+			"Enabled": true
 		}
 	]
 }
